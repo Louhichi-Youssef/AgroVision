@@ -1,0 +1,170 @@
+{
+    "common": {
+        "search": "Search...",
+        "seeAll": "See All",
+        "back": "Back",
+        "save": "Save",
+        "cancel": "Cancel",
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "success": "Success",
+        "logout": "Logout",
+        "settings": "Settings",
+        "details": "Details",
+        "tomorrow": "Tomorrow",
+        "language": "Language"
+    },
+    "home": {
+        "greeting": "Aslama,",
+        "plantDoctor": "Plant Doctor",
+        "plantDoctorSub": "Diagnose disease using AI camera.",
+        "diagnoseNow": "Diagnose Now",
+        "askAgroBot": "Ask AgroBot",
+        "agroBotSub": "Farming advice in your dialect.",
+        "meteo": "Meteo",
+        "irrigation": "Irrigation",
+        "nextCycle": "Next Cycle",
+        "myCrops": "My Crops",
+        "addCrop": "Add Crop",
+        "noCrops": "No Crops Added",
+        "noCropsSub": "Diagnose a plant to add it.",
+        "recentAnalytics": "Recent Analytics",
+        "alerts": "Alerts",
+        "history": "History"
+    },
+    "marketplace": {
+        "title": "Marketplace",
+        "searchPlaceholder": "Search seeds, tools, fertilizers...",
+        "featuredOffers": "Featured Offers",
+        "recommended": "Recommended For You",
+        "trustedBrands": "Trusted Brands",
+        "addToCart": "Add to Cart",
+        "addedToCart": "Added to cart!",
+        "categories": {
+            "all": "All",
+            "fertilizers": "Fertilizers",
+            "seeds": "Seeds",
+            "tools": "Tools",
+            "pesticides": "Pesticides",
+            "equipment": "Equipment"
+        }
+    },
+    "weather": {
+        "title": "Weather Hub",
+        "location": "Tunis, Tunisia",
+        "humidity": "Humidity",
+        "windSpeed": "Wind Speed",
+        "uvIndex": "UV Index",
+        "weeklyForecast": "Weekly Forecast",
+        "agroBotWisdom": "AgroBot Wisdom",
+        "getDetailedPlan": "Get Detailed Plan",
+        "conditions": {
+            "clear": "Clear Sky",
+            "partlyCloudy": "Partly Cloudy",
+            "foggy": "Foggy",
+            "drizzle": "Drizzle",
+            "rainy": "Rainy",
+            "showers": "Showers",
+            "thunderstorm": "Thunderstorm",
+            "unknown": "Unknown",
+            "daytime": "Daytime",
+            "nighttime": "Nighttime",
+            "sunny": "Sunny"
+        },
+        "wisdom": {
+            "gentle": "Gentle breeze today. It's a perfect window for fertilization or foliar spraying. Conditions are stable.",
+            "strong": "Strong winds ahead. Secure your young saplings and avoid spraying to prevent drift and wasted material."
+        }
+    },
+    "profile": {
+        "title": "Profile",
+        "crops": "Crops",
+        "location": "Location",
+        "plan": "Plan",
+        "myFarmDetails": "My Farm Details",
+        "harvestStats": "Harvest Statistics",
+        "appSettings": "App Settings",
+        "supportHelp": "Support & Help",
+        "upgradeTitle": "Upgrade to Expert Plan",
+        "upgradeSub": "Get deep AI soil analysis & more.",
+        "memberSince": "Member Since",
+        "editProfile": "Edit Profile",
+        "selectLanguage": "Select Language",
+        "chooseLanguage": "Choose your preferred language",
+        "logoutConfirm": "Are you sure you want to logout?",
+        "langLabel": "Language / Langue",
+        "restartRTL": "Language changed. Please restart the app for full RTL support.",
+        "statsSub": "Detailed analytics coming soon in the Expert Plan.",
+        "supportSub": "Need help? Contact our agro-experts via AgroBot chat."
+    },
+    "diagnosis": {
+        "diseaseDetected": "Disease Detected",
+        "confidence": "Confidence",
+        "aboutDisease": "About this disease",
+        "recommendedAction": "Recommended Action",
+        "askBotFullPlan": "Ask AgroBot for full treatment plan",
+        "dummy": {
+            "name": "Olive Peacock Spot",
+            "description": "Spilocaea oleaginea is a fungus that causes peacock spot in olive trees. It is more prevalent in humid conditions and can lead to leaf drop and reduced yield.",
+            "actionTitle": "Copper-based Fungicide",
+            "actionDesc": "Apply during the dormant season (post-harvest) to prevent spread."
+        }
+    },
+    "onboarding": {
+        "title": "AgroVision",
+        "slogan": "Smarter farming powered by AI",
+        "description": "Monitor your crops, analyze soil health, and boost your harvest with real-time AI insights.",
+        "getStarted": "GET STARTED",
+        "signIn": "Sign In"
+    },
+    "signup": {
+        "stepIndicator": "STEP 1 OF 3",
+        "title": "Create an account to start your smart farming journey.",
+        "subtitle": "Join the community of modern farmers using AI to optimize their yield.",
+        "fullName": "Full Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "next": "NEXT",
+        "weak": "Weak",
+        "fair": "Fair",
+        "strong": "Strong",
+        "passwordStrength": "Password Strength",
+        "passwordsDoNotMatch": "Passwords do not match"
+    },
+    "goals": {
+        "stepIndicator": "STEP 3 OF 3",
+        "title": "What are your primary goals?",
+        "subtitle": "Select at least one area where you want our AI to focus its analysis and recommendations.",
+        "finish": "FINISH SETUP",
+        "items": {
+            "yield": "Increase Crop Yield",
+            "water": "Reduce Water Use",
+            "soil": "Monitor Soil Health",
+            "pest": "Pest & Disease Alerts",
+            "costs": "Optimize Input Costs",
+            "weather": "Localized Weather Insights"
+        }
+    },
+    "notifications": {
+        "title": "Notifications",
+        "emptyTitle": "All Caught Up!",
+        "emptySub": "No new alerts for your farm at the moment."
+    },
+    "farm": {
+        "stepIndicator": "STEP 2 OF 3",
+        "title": "Tell us about your farm.",
+        "subtitle": "Provide basic information so our AI can start analyzing your specific agricultural context.",
+        "namePlaceholder": "Farm Name",
+        "locationPlaceholder": "Location (City/Region)",
+        "sizePlaceholder": "Farm Size (in Hectares)"
+    },
+    "chat": {
+        "welcome": "Aslama! I am AgroBot, your Tunisian AI agricultural assistant. How can I help you today?",
+        "placeholder": "Ask AgroVision...",
+        "thinking": "AgroBot is thinking...",
+        "errorConnection": "Desolé, I'm having trouble connecting right now.",
+        "errorServer": "I couldn't reach the server. Please check if the backend is running.",
+        "online": "Online"
+    }
+}

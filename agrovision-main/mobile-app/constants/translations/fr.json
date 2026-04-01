@@ -1,0 +1,170 @@
+{
+    "common": {
+        "search": "Rechercher...",
+        "seeAll": "Voir tout",
+        "back": "Retour",
+        "save": "Enregistrer",
+        "cancel": "Annuler",
+        "loading": "Chargement...",
+        "error": "Une erreur est survenue",
+        "success": "Succès",
+        "logout": "Déconnexion",
+        "settings": "Paramètres",
+        "details": "Détails",
+        "tomorrow": "Demain",
+        "language": "Langue"
+    },
+    "home": {
+        "greeting": "Aslama,",
+        "plantDoctor": "Docteur des Plantes",
+        "plantDoctorSub": "Diagnostiquer les maladies via caméra AI.",
+        "diagnoseNow": "Diagnostiquer maintenant",
+        "askAgroBot": "Demander à AgroBot",
+        "agroBotSub": "Conseils agricoles dans votre dialecte.",
+        "meteo": "Météo",
+        "irrigation": "Irrigation",
+        "nextCycle": "Prochain cycle",
+        "myCrops": "Mes cultures",
+        "addCrop": "Ajouter culture",
+        "noCrops": "Aucune culture",
+        "noCropsSub": "Diagnostiquez une plante pour l'ajouter.",
+        "recentAnalytics": "Analyses récentes",
+        "alerts": "Alertes",
+        "history": "Historique"
+    },
+    "marketplace": {
+        "title": "Marché",
+        "searchPlaceholder": "Graines, outils, engrais...",
+        "featuredOffers": "Offres en vedette",
+        "recommended": "Recommandé pour vous",
+        "trustedBrands": "Marques de confiance",
+        "addToCart": "Ajouter au panier",
+        "addedToCart": "Ajouté au panier !",
+        "categories": {
+            "all": "Tout",
+            "fertilizers": "Engrais",
+            "seeds": "Graines",
+            "tools": "Outils",
+            "pesticides": "Pesticides",
+            "equipment": "Équipement"
+        }
+    },
+    "weather": {
+        "title": "Centre Météo",
+        "location": "Tunis, Tunisie",
+        "humidity": "Humidité",
+        "windSpeed": "Vitesse du vent",
+        "uvIndex": "Indice UV",
+        "weeklyForecast": "Prévisions hebdo",
+        "agroBotWisdom": "Sagesse AgroBot",
+        "getDetailedPlan": "Obtenir un plan détaillé",
+        "conditions": {
+            "clear": "Ciel dégagé",
+            "partlyCloudy": "Partiellement nuageux",
+            "foggy": "Brouillard",
+            "drizzle": "Bruine",
+            "rainy": "Pluvieux",
+            "showers": "Averses",
+            "thunderstorm": "Orage",
+            "unknown": "Inconnu",
+            "daytime": "Journée",
+            "nighttime": "Nuit",
+            "sunny": "Ensoleillé"
+        },
+        "wisdom": {
+            "gentle": "Brise légère aujourd'hui. Moment idéal pour la fertilisation ou la pulvérisation foliaire. Les conditions sont stables.",
+            "strong": "Vents forts prévus. Sécurisez vos jeunes plants et évitez de pulvériser pour prévenir la dérive."
+        }
+    },
+    "profile": {
+        "title": "Profil",
+        "crops": "Cultures",
+        "location": "Emplacement",
+        "plan": "Plan",
+        "myFarmDetails": "Détails de ma ferme",
+        "harvestStats": "Statistiques de récolte",
+        "appSettings": "Paramètres de l'app",
+        "supportHelp": "Aide & Support",
+        "upgradeTitle": "Passer au Plan Expert",
+        "upgradeSub": "Analyses de sol AI approfondies & plus.",
+        "memberSince": "Membre depuis",
+        "editProfile": "Modifier le profil",
+        "selectLanguage": "Choisir la langue",
+        "chooseLanguage": "Choisissez votre langue préférée",
+        "logoutConfirm": "Êtes-vous sûr de vouloir vous déconnecter ?",
+        "langLabel": "Language / Langue",
+        "restartRTL": "Langue changée. Veuillez redémarrer l'application pour un support RTL complet.",
+        "statsSub": "Analyses détaillées bientôt disponibles dans le Plan Expert.",
+        "supportSub": "Besoin d'aide ? Contactez nos agro-experts via le chat AgroBot."
+    },
+    "diagnosis": {
+        "diseaseDetected": "Maladie détectée",
+        "confidence": "Confiance",
+        "aboutDisease": "À propos de cette maladie",
+        "recommendedAction": "Action recommandée",
+        "askBotFullPlan": "Demandez à AgroBot un plan de traitement complet",
+        "dummy": {
+            "name": "Oeil de Paon de l'Olivier",
+            "description": "Spilocaea oleaginea est un champignon qui provoque l'œil de paon chez les oliviers. Il est plus fréquent dans des conditions humides et peut entraîner la chute des feuilles et une baisse de rendement.",
+            "actionTitle": "Fongicide à base de cuivre",
+            "actionDesc": "Appliquer pendant la période de dormance (après la récolte) pour prévenir la propagation."
+        }
+    },
+    "onboarding": {
+        "title": "AgroVision",
+        "slogan": "Agriculture plus intelligente grâce à l'IA",
+        "description": "Surveillez vos cultures, analysez la santé des sols et boostez votre récolte avec des informations IA en temps réel.",
+        "getStarted": "DÉMARRER",
+        "signIn": "Se connecter"
+    },
+    "signup": {
+        "stepIndicator": "ÉTAPE 1 SUR 3",
+        "title": "Créez un compte pour commencer votre voyage vers l'agriculture intelligente.",
+        "subtitle": "Rejoignez la communauté des agriculteurs modernes utilisant l'IA pour optimiser leur rendement.",
+        "fullName": "Nom complet",
+        "email": "Email",
+        "password": "Mot de passe",
+        "confirmPassword": "Confirmer le mot de passe",
+        "next": "SUIVANT",
+        "weak": "Faible",
+        "fair": "Moyen",
+        "strong": "Fort",
+        "passwordStrength": "Force du mot de passe",
+        "passwordsDoNotMatch": "Les mots de passe ne correspondent pas"
+    },
+    "goals": {
+        "stepIndicator": "ÉTAPE 3 SUR 3",
+        "title": "Quels sont vos objectifs principaux ?",
+        "subtitle": "Sélectionnez au moins un domaine sur lequel vous souhaitez que notre IA concentre ses analyses et recommandations.",
+        "finish": "TERMINER LA CONFIGURATION",
+        "items": {
+            "yield": "Augmenter le rendement",
+            "water": "Réduire l'utilisation de l'eau",
+            "soil": "Surveiller la santé des sols",
+            "pest": "Alertes parasites et maladies",
+            "costs": "Optimiser les coûts d'intrants",
+            "weather": "Prévisions météo locales"
+        }
+    },
+    "notifications": {
+        "title": "Notifications",
+        "emptyTitle": "Tout est à jour !",
+        "emptySub": "Alerte : aucune nouvelle alerte pour votre ferme."
+    },
+    "farm": {
+        "stepIndicator": "ÉTAPE 2 SUR 3",
+        "title": "Parlez-nous de votre ferme.",
+        "subtitle": "Fournissez des informations de base pour que notre IA puisse commencer à analyser votre contexte agricole spécifique.",
+        "namePlaceholder": "Nom de la ferme",
+        "locationPlaceholder": "Emplacement (Ville/Région)",
+        "sizePlaceholder": "Taille de la ferme (en hectares)"
+    },
+    "chat": {
+        "welcome": "Aslama ! Je suis AgroBot, votre assistant agricole tunisien par IA. Comment puis-je vous aider aujourd'hui ?",
+        "placeholder": "Demandez à AgroVision...",
+        "thinking": "AgroBot réfléchit...",
+        "errorConnection": "Désolé, j'ai du mal à me connecter en ce moment.",
+        "errorServer": "Je n'ai pas pu joindre le serveur. Veuillez vérifier si le backend est en cours d'exécution.",
+        "online": "En ligne"
+    }
+}

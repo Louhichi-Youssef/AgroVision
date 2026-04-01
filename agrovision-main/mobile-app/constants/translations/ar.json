@@ -1,0 +1,170 @@
+{
+    "common": {
+        "search": "بحث...",
+        "seeAll": "عرض الكل",
+        "back": "رجوع",
+        "save": "حفظ",
+        "cancel": "إلغاء",
+        "loading": "جاري التحميل...",
+        "error": "حدث خطأ ما",
+        "success": "نجاح",
+        "logout": "تسجيل الخروج",
+        "settings": "الإعدادات",
+        "details": "التفاصيل",
+        "tomorrow": "غداً",
+        "language": "اللغة"
+    },
+    "home": {
+        "greeting": "عسلامة،",
+        "plantDoctor": "طبيب النباتات",
+        "plantDoctorSub": "تشخيص الأمراض باستخدام كاميرا الذكاء الاصطناعي.",
+        "diagnoseNow": "شخص الآن",
+        "askAgroBot": "اسأل AgroBot",
+        "agroBotSub": "نصائح فلاحية بلهجتك.",
+        "meteo": "طقس",
+        "irrigation": "ري",
+        "nextCycle": "الدورة القادمة",
+        "myCrops": "محاصيلي",
+        "addCrop": "إضافة محصول",
+        "noCrops": "لا توجد محاصيل",
+        "noCropsSub": "شخص نباتًا لإضافته.",
+        "recentAnalytics": "تحليلات حديثة",
+        "alerts": "تنبيهات",
+        "history": "تاريخ"
+    },
+    "marketplace": {
+        "title": "المتجر",
+        "searchPlaceholder": "بذور، أدوات، أسمدة...",
+        "featuredOffers": "عروض مميزة",
+        "recommended": "مقترح لك",
+        "trustedBrands": "علامات تجارية موثوقة",
+        "addToCart": "إضافة إلى السلة",
+        "addedToCart": "تمت الإضافة إلى السلة!",
+        "categories": {
+            "all": "الكل",
+            "fertilizers": "أسمدة",
+            "seeds": "بذور",
+            "tools": "أدوات",
+            "pesticides": "مبيدات",
+            "equipment": "معدات"
+        }
+    },
+    "weather": {
+        "title": "مركز الطقس",
+        "location": "تونس، تونس",
+        "humidity": "رطوبة",
+        "windSpeed": "سرعة الرياح",
+        "uvIndex": "مؤشر الأشعة فوق البنفسجية",
+        "weeklyForecast": "توقعات أسبوعية",
+        "agroBotWisdom": "حكمة AgroBot",
+        "getDetailedPlan": "احصل على خطة مفصلة",
+        "conditions": {
+            "clear": "سماء صافية",
+            "partlyCloudy": "غائم جزئيًا",
+            "foggy": "ضباب",
+            "drizzle": "رذاذ",
+            "rainy": "ممطر",
+            "showers": "زخات مطر",
+            "thunderstorm": "عاصفة رعدية",
+            "unknown": "غير معروف",
+            "daytime": "نهاراً",
+            "nighttime": "ليلاً",
+            "sunny": "مشمس"
+        },
+        "wisdom": {
+            "gentle": "رياح خفيفة اليوم. نافذة مثالية للتسميد أو الرش الورقي. الظروف مستقرة.",
+            "strong": "رياح قوية قادمة. قم بتأمين شتلاتك الصغيرة وتجنب الرش لمنع الانجراف وضياع المواد."
+        }
+    },
+    "profile": {
+        "title": "الملف الشخصي",
+        "crops": "محاصيل",
+        "location": "الموقع",
+        "plan": "الخطة",
+        "myFarmDetails": "تفاصيل مزرعتي",
+        "harvestStats": "إحصائيات الحصاد",
+        "appSettings": "إعدادات التطبيق",
+        "supportHelp": "الدعم والمساعدة",
+        "upgradeTitle": "الترقية إلى الخطة الاحترافية",
+        "upgradeSub": "احصل على تحليل عميق للتربة والمزيد.",
+        "memberSince": "عضو منذ",
+        "editProfile": "تعديل الملف الشخصي",
+        "selectLanguage": "اختر اللغة",
+        "chooseLanguage": "اختر لغتك المفضلة",
+        "logoutConfirm": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "langLabel": "Language / Langue / اللغة",
+        "restartRTL": "تم تغيير اللغة. يرجى إعادة تشغيل التطبيق لدعم RTL الكامل.",
+        "statsSub": "تحليلات مفصلة قريباً في الخطة الاحترافية.",
+        "supportSub": "تحتاج مساعدة؟ تواصل مع خبرائنا عبر دردشة AgroBot."
+    },
+    "diagnosis": {
+        "diseaseDetected": "تم اكتشاف مرض",
+        "confidence": "الثقة",
+        "aboutDisease": "حول هذا المرض",
+        "recommendedAction": "الإجراء الموصى به",
+        "askBotFullPlan": "طلب خطة علاج كاملة من AgroBot",
+        "dummy": {
+            "name": "عين الطاووس في الزيتون",
+            "description": "Spilocaea oleaginea هو فطر يسبب مرض عين الطاووس في أشجار الزيتون. ينتشر أكثر في الظروف الرطبة ويمكن أن يؤدي إلى تساقط الأوراق ونقص الإنتاج.",
+            "actionTitle": "مبيد فطري نحاسي",
+            "actionDesc": "يتم تطبيقه خلال فترة السكون (بعد الحصاد) لمنع الانتشار."
+        }
+    },
+    "onboarding": {
+        "title": "AgroVision",
+        "slogan": "زراعة أذكى مدعومة بالذكاء الاصطناعي",
+        "description": "راقب محاصيلك، وحلل صحة التربة، وعزز حصادك من خلال رؤى الذكاء الاصطناعي في الوقت الفعلي.",
+        "getStarted": "ابدأ الآن",
+        "signIn": "تسجيل الدخول"
+    },
+    "signup": {
+        "stepIndicator": "الخطوة 1 من 3",
+        "title": "أنشئ حسابًا لبدء رحلتك في الزراعة الذكية.",
+        "subtitle": "انضم إلى مجتمع المزارعين المعاصرين الذين يستخدمون الذكاء الاصطناعي لتحسين إنتاجهم.",
+        "fullName": "الاسم الكامل",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "next": "التالي",
+        "weak": "ضعيف",
+        "fair": "متوسط",
+        "strong": "قوي",
+        "passwordStrength": "قوة كلمة المرور",
+        "passwordsDoNotMatch": "كلمات المرور غير متطابقة"
+    },
+    "goals": {
+        "stepIndicator": "الخطوة 3 من 3",
+        "title": "ما هي أهدافك الأساسية؟",
+        "subtitle": "حدد مجالاً واحدًا على الأقل تريد أن يركز فيه ذكاؤنا الاصطناعي تحليلاته وتوصياته.",
+        "finish": "إنهاء الإعداد",
+        "items": {
+            "yield": "زيادة إنتاجية المحاصيل",
+            "water": "تقليل استخدام المياه",
+            "soil": "مراقبة صحة التربة",
+            "pest": "تنبيهات الآفات والأمراض",
+            "costs": "تحسين تكاليف المدخلات",
+            "weather": "رؤى الطقس المحلية"
+        }
+    },
+    "notifications": {
+        "title": "الإشعارات",
+        "emptyTitle": "كل شيء على ما يرام!",
+        "emptySub": "لا توجد تنبيهات جديدة لمزرعتك في الوقت الحالي."
+    },
+    "farm": {
+        "stepIndicator": "الخطوة 2 من 3",
+        "title": "أخبرنا عن مزرعتك.",
+        "subtitle": "قدم معلومات أساسية حتى يتمكن ذكاؤنا الاصطناعي من البدء في تحليل سياقك الزراعي المحدد.",
+        "namePlaceholder": "اسم المزرعة",
+        "locationPlaceholder": "الموقع (المدينة/المنطقة)",
+        "sizePlaceholder": "مساحة المزرعة (بالهكتار)"
+    },
+    "chat": {
+        "welcome": "سلام! أنا AgroBot، مساعدك الزراعي التونسي بالذكاء الاصطناعي. كيف يمكنني مساعدتك اليوم؟",
+        "placeholder": "اسأل AgroVision...",
+        "thinking": "AgroBot يفكر...",
+        "errorConnection": "عذرًا، واجهت مشكلة في الاتصال الآن.",
+        "errorServer": "لم أتمكن من الوصول إلى الخادم. يرجى التحقق مما إذا كان الخلفية تعمل.",
+        "online": "متصل"
+    }
+}
